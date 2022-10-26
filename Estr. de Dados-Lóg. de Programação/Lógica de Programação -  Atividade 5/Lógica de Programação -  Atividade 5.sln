@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lógica de Programação -  Atividade 5", "Lógica de Programação -  Atividade 5\Lógica de Programação -  Atividade 5.csproj", "{C408942F-A30D-49CA-AAA5-BC173234DF01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C408942F-A30D-49CA-AAA5-BC173234DF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C408942F-A30D-49CA-AAA5-BC173234DF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C408942F-A30D-49CA-AAA5-BC173234DF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C408942F-A30D-49CA-AAA5-BC173234DF01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93FCF40A-7960-43D6-8FA1-7421EACDD38F}
+	EndGlobalSection
+EndGlobal
