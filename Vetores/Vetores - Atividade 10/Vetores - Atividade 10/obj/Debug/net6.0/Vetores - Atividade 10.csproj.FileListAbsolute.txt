@@ -1,0 +1,15 @@
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 10\Vetores - Atividade 10\bin\Debug\net6.0\Vetores - Atividade 10.exe
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 10\Vetores - Atividade 10\bin\Debug\net6.0\Vetores - Atividade 10.deps.json
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 10\Vetores - Atividade 10\bin\Debug\net6.0\Vetores - Atividade 10.runtimeconfig.json
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 10\Vetores - Atividade 10\bin\Debug\net6.0\Vetores - Atividade 10.dll
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 10\Vetores - Atividade 10\bin\Debug\net6.0\Vetores - Atividade 10.pdb
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 10\Vetores - Atividade 10\obj\Debug\net6.0\Vetores - Atividade 10.csproj.AssemblyReference.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 10\Vetores - Atividade 10\obj\Debug\net6.0\Vetores - Atividade 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 10\Vetores - Atividade 10\obj\Debug\net6.0\Vetores - Atividade 10.AssemblyInfoInputs.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 10\Vetores - Atividade 10\obj\Debug\net6.0\Vetores - Atividade 10.AssemblyInfo.cs
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 10\Vetores - Atividade 10\obj\Debug\net6.0\Vetores - Atividade 10.csproj.CoreCompileInputs.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 10\Vetores - Atividade 10\obj\Debug\net6.0\Vetores - Atividade 10.dll
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 10\Vetores - Atividade 10\obj\Debug\net6.0\refint\Vetores - Atividade 10.dll
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 10\Vetores - Atividade 10\obj\Debug\net6.0\Vetores - Atividade 10.pdb
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 10\Vetores - Atividade 10\obj\Debug\net6.0\Vetores - Atividade 10.genruntimeconfig.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 10\Vetores - Atividade 10\obj\Debug\net6.0\ref\Vetores - Atividade 10.dll

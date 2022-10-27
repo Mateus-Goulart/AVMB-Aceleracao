@@ -1,0 +1,15 @@
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 9\Vetores - Atividade 9\bin\Debug\net6.0\Vetores - Atividade 9.exe
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 9\Vetores - Atividade 9\bin\Debug\net6.0\Vetores - Atividade 9.deps.json
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 9\Vetores - Atividade 9\bin\Debug\net6.0\Vetores - Atividade 9.runtimeconfig.json
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 9\Vetores - Atividade 9\bin\Debug\net6.0\Vetores - Atividade 9.dll
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 9\Vetores - Atividade 9\bin\Debug\net6.0\Vetores - Atividade 9.pdb
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 9\Vetores - Atividade 9\obj\Debug\net6.0\Vetores - Atividade 9.csproj.AssemblyReference.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 9\Vetores - Atividade 9\obj\Debug\net6.0\Vetores - Atividade 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 9\Vetores - Atividade 9\obj\Debug\net6.0\Vetores - Atividade 9.AssemblyInfoInputs.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 9\Vetores - Atividade 9\obj\Debug\net6.0\Vetores - Atividade 9.AssemblyInfo.cs
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 9\Vetores - Atividade 9\obj\Debug\net6.0\Vetores - Atividade 9.csproj.CoreCompileInputs.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 9\Vetores - Atividade 9\obj\Debug\net6.0\Vetores - Atividade 9.dll
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 9\Vetores - Atividade 9\obj\Debug\net6.0\refint\Vetores - Atividade 9.dll
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 9\Vetores - Atividade 9\obj\Debug\net6.0\Vetores - Atividade 9.pdb
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 9\Vetores - Atividade 9\obj\Debug\net6.0\Vetores - Atividade 9.genruntimeconfig.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 9\Vetores - Atividade 9\obj\Debug\net6.0\ref\Vetores - Atividade 9.dll
