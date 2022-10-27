@@ -1,0 +1,15 @@
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 7\Vetores - Atividade 7\obj\Debug\net6.0\Vetores - Atividade 7.csproj.AssemblyReference.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 7\Vetores - Atividade 7\obj\Debug\net6.0\Vetores - Atividade 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 7\Vetores - Atividade 7\obj\Debug\net6.0\Vetores - Atividade 7.AssemblyInfoInputs.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 7\Vetores - Atividade 7\obj\Debug\net6.0\Vetores - Atividade 7.AssemblyInfo.cs
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 7\Vetores - Atividade 7\obj\Debug\net6.0\Vetores - Atividade 7.csproj.CoreCompileInputs.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 7\Vetores - Atividade 7\bin\Debug\net6.0\Vetores - Atividade 7.exe
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 7\Vetores - Atividade 7\bin\Debug\net6.0\Vetores - Atividade 7.deps.json
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 7\Vetores - Atividade 7\bin\Debug\net6.0\Vetores - Atividade 7.runtimeconfig.json
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 7\Vetores - Atividade 7\bin\Debug\net6.0\Vetores - Atividade 7.dll
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 7\Vetores - Atividade 7\bin\Debug\net6.0\Vetores - Atividade 7.pdb
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 7\Vetores - Atividade 7\obj\Debug\net6.0\Vetores - Atividade 7.dll
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 7\Vetores - Atividade 7\obj\Debug\net6.0\refint\Vetores - Atividade 7.dll
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 7\Vetores - Atividade 7\obj\Debug\net6.0\Vetores - Atividade 7.pdb
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 7\Vetores - Atividade 7\obj\Debug\net6.0\Vetores - Atividade 7.genruntimeconfig.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 7\Vetores - Atividade 7\obj\Debug\net6.0\ref\Vetores - Atividade 7.dll
