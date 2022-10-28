@@ -1,0 +1,15 @@
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 5\Vetores - Atividade 5\bin\Debug\net6.0\Vetores - Atividade 5.exe
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 5\Vetores - Atividade 5\bin\Debug\net6.0\Vetores - Atividade 5.deps.json
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 5\Vetores - Atividade 5\bin\Debug\net6.0\Vetores - Atividade 5.runtimeconfig.json
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 5\Vetores - Atividade 5\bin\Debug\net6.0\Vetores - Atividade 5.dll
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 5\Vetores - Atividade 5\bin\Debug\net6.0\Vetores - Atividade 5.pdb
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 5\Vetores - Atividade 5\obj\Debug\net6.0\Vetores - Atividade 5.csproj.AssemblyReference.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 5\Vetores - Atividade 5\obj\Debug\net6.0\Vetores - Atividade 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 5\Vetores - Atividade 5\obj\Debug\net6.0\Vetores - Atividade 5.AssemblyInfoInputs.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 5\Vetores - Atividade 5\obj\Debug\net6.0\Vetores - Atividade 5.AssemblyInfo.cs
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 5\Vetores - Atividade 5\obj\Debug\net6.0\Vetores - Atividade 5.csproj.CoreCompileInputs.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 5\Vetores - Atividade 5\obj\Debug\net6.0\Vetores - Atividade 5.dll
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 5\Vetores - Atividade 5\obj\Debug\net6.0\refint\Vetores - Atividade 5.dll
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 5\Vetores - Atividade 5\obj\Debug\net6.0\Vetores - Atividade 5.pdb
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 5\Vetores - Atividade 5\obj\Debug\net6.0\Vetores - Atividade 5.genruntimeconfig.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 5\Vetores - Atividade 5\obj\Debug\net6.0\ref\Vetores - Atividade 5.dll
