@@ -1,0 +1,15 @@
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 14\Vetores - Atividade 14\bin\Debug\net6.0\Vetores - Atividade 14.exe
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 14\Vetores - Atividade 14\bin\Debug\net6.0\Vetores - Atividade 14.deps.json
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 14\Vetores - Atividade 14\bin\Debug\net6.0\Vetores - Atividade 14.runtimeconfig.json
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 14\Vetores - Atividade 14\bin\Debug\net6.0\Vetores - Atividade 14.dll
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 14\Vetores - Atividade 14\bin\Debug\net6.0\Vetores - Atividade 14.pdb
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 14\Vetores - Atividade 14\obj\Debug\net6.0\Vetores - Atividade 14.csproj.AssemblyReference.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 14\Vetores - Atividade 14\obj\Debug\net6.0\Vetores - Atividade 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 14\Vetores - Atividade 14\obj\Debug\net6.0\Vetores - Atividade 14.AssemblyInfoInputs.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 14\Vetores - Atividade 14\obj\Debug\net6.0\Vetores - Atividade 14.AssemblyInfo.cs
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 14\Vetores - Atividade 14\obj\Debug\net6.0\Vetores - Atividade 14.csproj.CoreCompileInputs.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 14\Vetores - Atividade 14\obj\Debug\net6.0\Vetores - Atividade 14.dll
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 14\Vetores - Atividade 14\obj\Debug\net6.0\refint\Vetores - Atividade 14.dll
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 14\Vetores - Atividade 14\obj\Debug\net6.0\Vetores - Atividade 14.pdb
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 14\Vetores - Atividade 14\obj\Debug\net6.0\Vetores - Atividade 14.genruntimeconfig.cache
+C:\Users\mateus.pereira\Downloads\Projetos\Atividades\Vetores\Vetores - Atividade 14\Vetores - Atividade 14\obj\Debug\net6.0\ref\Vetores - Atividade 14.dll
