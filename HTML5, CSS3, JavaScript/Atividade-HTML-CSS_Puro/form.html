@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style1.css">
+    <!-- Font Awesome -->
+    <script src="https://kit.fontawesome.com/b2bc356482.js" crossorigin="anonymous"></script>
+    <title>Document</title>
+</head>
+<body class="background">
+    <div class="container container-gray container-b">
+        <section>
+            <nav class="nav-bar">
+                <h1 id="titulo"> <i class="fa-solid fa-film"></i> Séries Online </h1>
+                <hr>
+                <a href="index.html" class="button"><i class="fa-solid fa-house"></i> Home </a>
+                <a href="form.html" class="button"><i class="fa-solid fa-bars"></i> Cadastrar assinatura </a>
+                <a href="tela2.html" class="button"><i class="fa-solid fa-address-card"></i> Perfil </a>
+            </nav>
+        </section>
+        <section>
+            <form class="texto" method="post" action="https://httpbin.org/post" enctype="multipart/form-data"> <!-- <form method = forma de envio ao backend  action = caminho (url) do backend-->
+                <fieldset class="container">
+                    <legend> Cadastro de Usuário </legend>
+                    <label> Nome: <br>
+                        <input type="text" name="nome" required>
+                    </label>
+                    <br>
+                    <label> Sobrenome: <br>
+                        <input type="text" name="sobrenome" required>
+                    </label>
+                    <br>
+                    <label> E-mail: <br>
+                    <input type="email" name="email" placeholder="Digite o E-mail:"> <!-- <input type = tipo de dado  name = variavel que vai ser armazenado-->
+                    </label>
+                    <br>
+                    <label> Senha <br>
+                    <input type="password" name="senha" placeholder="Senha">
+                    </label>
+                    <br>
+                    <label> Estado: <br>
+                        <input type="text" name="estado" required>
+                    </label>
+                    <br>
+                    <label> País <br>
+                        <input type="text" name="pais" required>
+                    </label>
+                    <br>
+                    <label> Data de Nascimento: <br>
+                        <input type="date" name="nascimento" required class="mask_data">
+                    </label>
+                    <br>
+                    <label> Celular: <br>
+                        <input type="text" name="celular" required class="mask_tel_celular">
+                    </label>
+                    <br>
+                    <label> CPF: <br>
+                        <input type="text" name="cpf" required class="mask_cpf">
+                    </label>
+                    <p>
+                        <label>
+                            <input type="radio" name="sexo" value="M" checked=""> Masculino
+                        </label>
+    
+                        <label>
+                            <input type="radio" name="sexo" value="F"> Feminino
+                        </label>
+                    </p>
+                    <br> 
+                    <p>
+                        <button type="submit">Cadastrar</button>
+                    </p>
+                </fieldset>
+            </form>
+        </section>
+    </div>
+
+<!-- JavaScript - JQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js" integrity="sha512-d4KkQohk+HswGs6A1d6Gak6Bb9rMWtxjOa0IiY49Q3TeFd5xAzjWXDCBW9RS7m86FQ4RzM2BdHmdJnnKRYknxw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<!-- JavaScript Custumizado -->
+<script src="js/mascaras.js"></script>
+</body>
+</html>

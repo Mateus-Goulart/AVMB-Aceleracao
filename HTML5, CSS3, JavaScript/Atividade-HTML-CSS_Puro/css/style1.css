@@ -1,0 +1,121 @@
+.background{
+    background-image: url(../img/melhores-series.jpg);
+}
+
+.container {
+    height: 100%;
+    width: 80%;
+    margin: auto;
+    padding: 15px;
+    
+}
+
+.container-gray {
+    background-image: url(../img/back.jpg);
+    background-size: auto;
+}
+
+.container-b {
+    border: 2px solid black;
+    border-radius: 12px;
+}
+
+.button{
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+    display: inline-block;
+    text-decoration: none;
+    margin: auto;
+    color: white;
+    background-color: rgb(22, 22, 22);
+}
+
+
+.button:hover{
+    border: 2px solid black;
+    color: white;
+    background-color: red;
+    
+}
+
+a{
+    color:black;
+}
+
+.nav-bar {
+    padding: 5px;
+    margin: auto;
+}
+
+section {
+    border: 2px solid black;
+}
+
+.filme{
+    border: 2px solid black;
+    background-image: linear-gradient(to bottom, black, rgba(39, 39, 39, 0.541),black);
+    width: 30%;
+    color: white;
+}
+
+.filme:hover{
+    border: 2px solid red;
+    color: red;
+}
+
+#texto_menor{
+    font-size: smaller;
+}
+
+#texto_medio{
+    font-size: small;
+}
+
+#texto_normal{
+    font-size: medium;
+}
+
+#texto_grande{
+    font-size: larger;
+}
+
+#titulo{
+    font-size: 35px;
+    text-align: center;
+    color: white;
+}
+
+hr{
+    background-color: black;
+    color: black;
+    
+}
+
+.texto{
+    color: white;
+}
+
+fieldset {
+    width: 50%;
+    display: inline-block;
+}
+
+.icone{
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+    border-radius: 40px;
+    text-align: center;
+    margin: auto;
+    padding: 2px;
+    width: 40%;
+}
+
+.inform{
+    width: 30%;
+}
+
+.reajus{
+    height: 50%;
+}
