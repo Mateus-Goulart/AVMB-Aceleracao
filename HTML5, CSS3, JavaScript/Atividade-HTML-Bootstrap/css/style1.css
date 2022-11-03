@@ -1,0 +1,19 @@
+.background{
+    background-image: url(../img/melhores-series.jpg);
+}
+
+.selecionar {
+    background-color: black;
+}
+
+.selecionar:hover{
+    background-color: red;
+}
+
+.border-b{
+    border-bottom: 3px solid red;
+}
+
+.border-t{
+    border-top: 3px solid red;
+}
