@@ -1,0 +1,15 @@
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matriz - Atividade 14\Matriz - Atividade 14\bin\Debug\net6.0\Matriz - Atividade 14.exe
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matriz - Atividade 14\Matriz - Atividade 14\bin\Debug\net6.0\Matriz - Atividade 14.deps.json
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matriz - Atividade 14\Matriz - Atividade 14\bin\Debug\net6.0\Matriz - Atividade 14.runtimeconfig.json
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matriz - Atividade 14\Matriz - Atividade 14\bin\Debug\net6.0\Matriz - Atividade 14.dll
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matriz - Atividade 14\Matriz - Atividade 14\bin\Debug\net6.0\Matriz - Atividade 14.pdb
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matriz - Atividade 14\Matriz - Atividade 14\obj\Debug\net6.0\Matriz - Atividade 14.csproj.AssemblyReference.cache
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matriz - Atividade 14\Matriz - Atividade 14\obj\Debug\net6.0\Matriz - Atividade 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matriz - Atividade 14\Matriz - Atividade 14\obj\Debug\net6.0\Matriz - Atividade 14.AssemblyInfoInputs.cache
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matriz - Atividade 14\Matriz - Atividade 14\obj\Debug\net6.0\Matriz - Atividade 14.AssemblyInfo.cs
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matriz - Atividade 14\Matriz - Atividade 14\obj\Debug\net6.0\Matriz - Atividade 14.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matriz - Atividade 14\Matriz - Atividade 14\obj\Debug\net6.0\Matriz - Atividade 14.dll
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matriz - Atividade 14\Matriz - Atividade 14\obj\Debug\net6.0\refint\Matriz - Atividade 14.dll
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matriz - Atividade 14\Matriz - Atividade 14\obj\Debug\net6.0\Matriz - Atividade 14.pdb
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matriz - Atividade 14\Matriz - Atividade 14\obj\Debug\net6.0\Matriz - Atividade 14.genruntimeconfig.cache
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matriz - Atividade 14\Matriz - Atividade 14\obj\Debug\net6.0\ref\Matriz - Atividade 14.dll
