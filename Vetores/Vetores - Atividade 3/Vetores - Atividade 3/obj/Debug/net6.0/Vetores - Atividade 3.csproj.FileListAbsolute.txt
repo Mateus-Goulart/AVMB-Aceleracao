@@ -1,0 +1,15 @@
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 3\Vetores - Atividade 3\bin\Debug\net6.0\Vetores - Atividade 3.exe
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 3\Vetores - Atividade 3\bin\Debug\net6.0\Vetores - Atividade 3.deps.json
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 3\Vetores - Atividade 3\bin\Debug\net6.0\Vetores - Atividade 3.runtimeconfig.json
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 3\Vetores - Atividade 3\bin\Debug\net6.0\Vetores - Atividade 3.dll
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 3\Vetores - Atividade 3\bin\Debug\net6.0\Vetores - Atividade 3.pdb
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 3\Vetores - Atividade 3\obj\Debug\net6.0\Vetores - Atividade 3.csproj.AssemblyReference.cache
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 3\Vetores - Atividade 3\obj\Debug\net6.0\Vetores - Atividade 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 3\Vetores - Atividade 3\obj\Debug\net6.0\Vetores - Atividade 3.AssemblyInfoInputs.cache
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 3\Vetores - Atividade 3\obj\Debug\net6.0\Vetores - Atividade 3.AssemblyInfo.cs
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 3\Vetores - Atividade 3\obj\Debug\net6.0\Vetores - Atividade 3.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 3\Vetores - Atividade 3\obj\Debug\net6.0\Vetores - Atividade 3.dll
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 3\Vetores - Atividade 3\obj\Debug\net6.0\refint\Vetores - Atividade 3.dll
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 3\Vetores - Atividade 3\obj\Debug\net6.0\Vetores - Atividade 3.pdb
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 3\Vetores - Atividade 3\obj\Debug\net6.0\Vetores - Atividade 3.genruntimeconfig.cache
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 3\Vetores - Atividade 3\obj\Debug\net6.0\ref\Vetores - Atividade 3.dll
