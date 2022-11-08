@@ -1,0 +1,15 @@
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 13\Vetores - Atividade 13\bin\Debug\net6.0\Vetores - Atividade 13.exe
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 13\Vetores - Atividade 13\bin\Debug\net6.0\Vetores - Atividade 13.deps.json
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 13\Vetores - Atividade 13\bin\Debug\net6.0\Vetores - Atividade 13.runtimeconfig.json
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 13\Vetores - Atividade 13\bin\Debug\net6.0\Vetores - Atividade 13.dll
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 13\Vetores - Atividade 13\bin\Debug\net6.0\Vetores - Atividade 13.pdb
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 13\Vetores - Atividade 13\obj\Debug\net6.0\Vetores - Atividade 13.csproj.AssemblyReference.cache
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 13\Vetores - Atividade 13\obj\Debug\net6.0\Vetores - Atividade 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 13\Vetores - Atividade 13\obj\Debug\net6.0\Vetores - Atividade 13.AssemblyInfoInputs.cache
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 13\Vetores - Atividade 13\obj\Debug\net6.0\Vetores - Atividade 13.AssemblyInfo.cs
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 13\Vetores - Atividade 13\obj\Debug\net6.0\Vetores - Atividade 13.csproj.CoreCompileInputs.cache
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 13\Vetores - Atividade 13\obj\Debug\net6.0\Vetores - Atividade 13.dll
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 13\Vetores - Atividade 13\obj\Debug\net6.0\refint\Vetores - Atividade 13.dll
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 13\Vetores - Atividade 13\obj\Debug\net6.0\Vetores - Atividade 13.pdb
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 13\Vetores - Atividade 13\obj\Debug\net6.0\Vetores - Atividade 13.genruntimeconfig.cache
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Vetores\Vetores - Atividade 13\Vetores - Atividade 13\obj\Debug\net6.0\ref\Vetores - Atividade 13.dll
