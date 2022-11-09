@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap - Local -->
+    <link rel="stylesheet" href="../../css/bootstrap.css">
+    <!-- CSS Custumizado -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <title>Atividades - JavaScript</title>
+</head>
+<body>
+    <div class="row">
+        <div class="col-sm-12 col-md-12 col-lg-3 col-xl-3 border-right text-center barra text-light">
+            <section>
+                <fieldset>
+                    <legend> Selecione a Cor </legend>
+                    <div>
+                        <input type="radio" onclick="mudarVerde()" id="verde" name="cor"><label for="verde">  Verde </label>
+                    </div>
+                    <div>
+                        <input type="radio" onclick="mudarVermelho()" id="vermelho" name="cor"><label for="vermelho">  Vermelho </label>
+                    </div>
+                    <div>
+                        <input type="radio" onclick="mudarAzul()" id="azul" name="cor"><label for="azul">  Azul </label>
+                    </div>
+                    <div>
+                        <input type="radio" onclick="mudarRosa()" id="rosa" name="cor"><label for="rosa">  Rosa </label>
+                    </div>
+                    <div>
+                        <input type="radio" onclick="removerCor()" id="semCor" name="cor" checked><label for="semCor">  Sem Cor </label>
+                    </div>
+                </fieldset>
+            </section>
+        </div>
+
+        <div class="col-sm-12 col-md-12 col-lg-9 col-xl-9">
+
+        </div>
+    </div>
+
+    <!-- JavaScript Local - Jquery e Bootstrap -->
+    <script src="../../js/jquery.js"></script>
+    <script src="../../js/bootstrap.js"></script>
+    <script src="../../js/bootstrap.bundle.js"></script>
+    <script src="js/alterarCor.js"></script>
+</body>
+</html>
