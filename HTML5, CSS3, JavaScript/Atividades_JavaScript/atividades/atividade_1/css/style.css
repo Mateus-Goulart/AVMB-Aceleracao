@@ -1,0 +1,53 @@
+.botao-verde{
+    color:#00aa00;
+}
+
+.botao-verde:hover {
+    background-color: #00aa00;
+    color: white;
+}
+
+.botao-rosa{
+    color:#ff9999;
+}
+
+.botao-rosa:hover {
+    background-color: #ff9999;
+    color: white;
+}
+
+.botao-verde{
+    color:#00aa00;
+}
+
+.botao-verde:hover {
+    background-color: #00aa00;
+    color: white;
+}
+
+.botao-rosa{
+    color:#ff9999;
+}
+
+.botao-rosa:hover {
+    background-color: #ff9999;
+    color: white;
+}
+
+.botao-vermelho{
+    color:#ff0000;
+}
+
+.botao-vermelho:hover {
+    background-color: #ff0000;
+    color: white;
+}
+
+.botao-azul{
+    color:#0004ff;
+}
+
+.botao-azul:hover {
+    background-color: #0004ff;
+    color: white;
+}
