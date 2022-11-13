@@ -1,0 +1,15 @@
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matrizes - Atividade 17 (Desafio)\Matrizes - Atividade 17 (Desafio)\bin\Debug\net6.0\Matrizes - Atividade 17 (Desafio).exe
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matrizes - Atividade 17 (Desafio)\Matrizes - Atividade 17 (Desafio)\bin\Debug\net6.0\Matrizes - Atividade 17 (Desafio).deps.json
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matrizes - Atividade 17 (Desafio)\Matrizes - Atividade 17 (Desafio)\bin\Debug\net6.0\Matrizes - Atividade 17 (Desafio).runtimeconfig.json
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matrizes - Atividade 17 (Desafio)\Matrizes - Atividade 17 (Desafio)\bin\Debug\net6.0\Matrizes - Atividade 17 (Desafio).dll
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matrizes - Atividade 17 (Desafio)\Matrizes - Atividade 17 (Desafio)\bin\Debug\net6.0\Matrizes - Atividade 17 (Desafio).pdb
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matrizes - Atividade 17 (Desafio)\Matrizes - Atividade 17 (Desafio)\obj\Debug\net6.0\Matrizes - Atividade 17 (Desafio).csproj.AssemblyReference.cache
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matrizes - Atividade 17 (Desafio)\Matrizes - Atividade 17 (Desafio)\obj\Debug\net6.0\Matrizes - Atividade 17 (Desafio).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matrizes - Atividade 17 (Desafio)\Matrizes - Atividade 17 (Desafio)\obj\Debug\net6.0\Matrizes - Atividade 17 (Desafio).AssemblyInfoInputs.cache
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matrizes - Atividade 17 (Desafio)\Matrizes - Atividade 17 (Desafio)\obj\Debug\net6.0\Matrizes - Atividade 17 (Desafio).AssemblyInfo.cs
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matrizes - Atividade 17 (Desafio)\Matrizes - Atividade 17 (Desafio)\obj\Debug\net6.0\Matrizes - Atividade 17 (Desafio).csproj.CoreCompileInputs.cache
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matrizes - Atividade 17 (Desafio)\Matrizes - Atividade 17 (Desafio)\obj\Debug\net6.0\Matrizes - Atividade 17 (Desafio).dll
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matrizes - Atividade 17 (Desafio)\Matrizes - Atividade 17 (Desafio)\obj\Debug\net6.0\refint\Matrizes - Atividade 17 (Desafio).dll
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matrizes - Atividade 17 (Desafio)\Matrizes - Atividade 17 (Desafio)\obj\Debug\net6.0\Matrizes - Atividade 17 (Desafio).pdb
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matrizes - Atividade 17 (Desafio)\Matrizes - Atividade 17 (Desafio)\obj\Debug\net6.0\Matrizes - Atividade 17 (Desafio).genruntimeconfig.cache
+C:\Users\Mateus Goulart\Documents\Atividades\Projetos\Atividades\Matrizes\Matrizes - Atividade 17 (Desafio)\Matrizes - Atividade 17 (Desafio)\obj\Debug\net6.0\ref\Matrizes - Atividade 17 (Desafio).dll
