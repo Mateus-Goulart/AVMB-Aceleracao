@@ -1,0 +1,126 @@
+.bg_red{
+    background-color: red;
+}
+
+.bg_green{
+    background-color: green;
+}
+
+.bg_purple{
+    background-color: purple;
+}
+
+.bg_blue{
+    background-color: blue;
+}
+
+.div_metade{
+    width: 20%;
+    text-align: center;
+    margin: 6px;
+}
+
+.d_flex{
+    display: flex;
+}
+
+.b_radius{
+    border-radius: 200%;
+}
+
+.m-auto{
+    margin: auto;
+}
+
+.text-white{
+    color: white;
+}
+
+.text-black{
+    color: black;
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+}
+
+.m-left{
+    margin-left: +30%;
+}
+
+
+.m-right{
+    margin-right: +30%;
+}
+
+.m-top{
+    margin-top: +20%;
+}
+
+.m-top-section{
+    margin-top: +3%;
+}
+
+.m-top-div{
+    margin-top: +1%;
+}
+
+
+.p-5{
+    padding: +5px;
+}
+
+.b-solid-1px{
+    border: 1px solid black;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.menu{
+    border: 2px solid green;
+}
+
+.menu-item{
+    background-color: gray;
+    margin: 4px;
+    padding: 5px !important;
+}
+
+.menu-texto{
+    color: yellow;
+    background-color: gray;
+    margin: auto;
+    margin-left: +1.5%;
+}
+
+.menu-texto:hover{
+    background-color: yellow;
+    color: gray;
+    margin: auto;
+}
+
+.w-30{
+    width: 30%;
+}
+
+.card{
+    background-color: rgba(50, 87, 50, 0.856);
+    padding: 10px;
+    color: white;
+    margin-top: 10px;
+}
+
+.imagem{
+    width: 200%;
+}
+
+.texto{
+    margin-left: 1.5%;
+}
+
+.m-bottom{
+    margin-bottom: 100px;
+}
