@@ -1,0 +1,7 @@
+Há duas pastas aqui presentes:
+
+- A pasta chamada de "Puro" se trata da recriação do modelo HTML fornecido para ser a base da atividade.
+- A pasta chamada de "Personalizado" se trata do modelo modificado com CSS para a execução da atividade.
+
+Tematica Escolhida: Uma livraria imaginaria a qual o acervo foca-se em livros de fántasia com tematica de Guerra, Aventura e Clássicos.
+A base se trata do site estar em fase de desenvolvimento.
