@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../../css/bootstrap.css">
+    <title>Atividades - JavaScript</title>
+</head>
+<body>
+    <div class="container">
+        <form class="form-group" name="form_cadastro">
+            <div class="card mt-5">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
+                            <label> Nome Completo: </label><br>
+                            <input type="text" name="nome" class="form-control">
+                        </div>
+                        <div class="col-sm-12 col-md-12 col-lg-3 col-xl-3">
+                            <label> Data de Nascimento: </label><br>
+                            <input type="date" name="d-nascimento" class="form-control">
+                        </div>
+                    </div>
+                    <div class="row mt-2">
+                        <div class="col-sm-6 col-md-6 col-lg-2 col-xl-2">
+                            <input type="radio" name="p_escolha" value="pf" id="pf" onclick="checarPessoa(this.value)">
+                            <label> Pessoa Física</label>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-2 col-xl-2">
+                            <input type="radio" name="p_escolha" value="pj" id="pj" onclick="checarPessoa(this.value)">
+                            <label> Pessoa Juridica</label>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-3 col-xl-3">
+                            <label> CPF    </label>
+                            <input type="text" name="cpf" class="form-control mask_cpf" id="cpf" disabled>
+                        </div>
+                        <div class="col-sm-12 col-md-12 col-lg-3 col-xl-3">
+                            <label> CNPJ    </label>
+                            <input type="text" name="cnpj" class="form-control mask_cnpj" id="cnpj" disabled>
+                        </div>
+                        <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
+                            <label> E-mail  </label>
+                            <input type="email" name="email" class="form-control">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-3 col-xl-3">
+                            <label> CEP  </label>
+                            <input type="text" name="cep" class="form-control mask_cep">
+                        </div>
+                        <div class="col-sm-12 col-md-12 col-lg-6 col-xl-6">
+                            <label> Endereço  </label>
+                            <input type="text" name="endereco" class="form-control">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 col-lg-3 col-xl-3">
+                            <label> Telefone </label>
+                            <input type="text" name="telefone" class="form-control mask_tel_celular">
+                        </div>
+                    </div>
+                </div>
+                <div class="card-footer">
+                    <p>
+                        <button type="button" class="btn btn-primary"> Cadastrar </button>
+                    </p>
+                </div>
+            </div>
+        </form>
+    </div>
+
+
+    <script>
+        function checarPessoa(valor){
+            if(valor == "pf"){
+                document.getElementById("cnpj").disabled = true;
+                document.getElementById("cpf").disabled = false;
+            }
+            else if (valor == "pj"){
+                document.getElementById("cpf").disabled = true;
+                document.getElementById("cnpj").disabled = false;
+            }
+        }
+
+    </script>
+    <!-- JavaScript Local - Jquery e Bootstrap -->
+    <script src="../../js/jquery.js"></script>
+    <script src="../../js/bootstrap.js"></script>
+    <script src="../../js/bootstrap.bundle.js"></script>
+    <script src="js/maskedinput.js"></script>
+    <script src="js/mascaras.js"></script>
+</body>
+</html>

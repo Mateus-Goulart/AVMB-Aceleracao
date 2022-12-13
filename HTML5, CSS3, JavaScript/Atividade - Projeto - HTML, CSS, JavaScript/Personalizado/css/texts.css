@@ -1,0 +1,56 @@
+/* Fonts instaladas*/
+
+@font-face {
+    font-family: Marck_script;
+    src: url(../font/MarckScript-Regular.ttf);
+}
+
+.font_titulo{
+    font-family: Marck_script;
+    text-shadow: 4px 4px 9px rgba(0,0,0,0.41);
+}
+
+@font-face{
+    font-family: Nerko_one;
+    src: url(../font/NerkoOne-Regular.ttf);
+}
+
+.font_texto{
+    font-family: Nerko_one;
+
+}
+
+/* Formatação de texto*/
+
+.text-left{
+    text-align: left;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-justify{
+    text-align: justify;
+}
+
+.p-width{
+    width: 50%;
+}
+
+/* Cores de Texto */
+.text-white{
+    color: white;
+}
+
+.informativo{
+    border: 2px solid red;
+    border-radius: 15px;
+    color: white;
+    margin-top: 5px;
+}
+

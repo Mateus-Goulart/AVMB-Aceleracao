@@ -1,0 +1,171 @@
+.container{
+    width: 70%;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.container-principal {
+    background-color: white;
+    border: 4px solid black;
+    border-radius: 15px;
+    box-shadow: -4px 9px 5px 4px rgba(128, 128, 128, 0);
+}
+
+.div-superior-esquerdo{
+    background-color: gray;
+    width: 50%;
+    border-radius: 15px;
+    padding-left: +2%;
+    
+}
+
+.m-left{
+    margin-left: 1.5%;
+}
+
+.m-top{
+    margin-top: 1.5%;
+}
+
+.m-topX2{
+    margin-top: 3.0%;
+}
+
+
+.m-right{
+    margin-right: 1.5%;
+}
+
+.m-rightX2{
+    margin-right: 3.0%;
+}
+
+.m-bottom{
+    margin-bottom: 1.5%;
+}
+
+.m-total{
+    margin: 1.5%;
+}
+
+
+.div-superior-direito{
+    width: 40%;
+}
+
+.d-flex{
+    display: flex;
+}
+
+.nav-bar{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding-top: +15px;
+    padding-bottom: +15px;
+    padding-right: +10px;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+}
+
+.barra-lateral{
+    width: 20%;
+    background-color: gray;
+    border-radius: 15px;
+}
+
+.area-central{
+    width: 80%;
+    border-radius: 15px;
+    padding-bottom: +10px;
+}
+
+
+.footer{
+    background-color: gray;
+    border-radius: 15px;
+    margin: 1.5%;
+    padding: +2px;
+}
+
+.div-lateral{
+    width: 80%;
+    margin: 10%;
+    background-color: rgb(194, 190, 190);
+    height: 100px;
+    border-radius: 15px;
+}
+
+.div-banner{
+    background-color: gray;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.div-banner img  {
+    border-radius: 15px;
+}
+
+.div-mostroario{
+    background-color: rgb(194, 190, 190);
+    width: 24%;
+    height: 10px;
+    margin: 1.5%;
+    border-radius: 10px;
+    height: +100px;
+    margin-bottom: 2%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    cursor:pointer;
+}
+
+.bg_gray{
+    background-color: rgb(99, 99, 99);
+    border-radius: 15px;
+}
+
+.fundo{
+    background-image: url(../img/fundo.jpg);
+    overflow: none;
+}
+
+.background-banner{
+    border-radius: 15px;
+}
+
+.bg-left-div{
+    background-image: url(../img/fundo_lateral.jpeg);
+    width: 50%;
+    height: 50%;
+    border: 2px solid white;
+}
+
+.m-negative{
+    margin-left: -1.5%;
+    margin-right: -1.5%;
+    margin-top: -1.5%;
+}
+
+.b-radius1{
+    border-radius: 10px;
+}
+
+.div-lateral-texto{
+    margin: 3px;
+    color:black !important;
+}
+
+.caixa_informacoes{
+    width: 49%;
+    border: 2px white solid;
+    color: white;
+    margin: auto;
+    border-radius: 15px;
+}
+
+.informacoes_texto{
+    margin-left: 8px;
+    margin-right: 8px;
+    text-align: justify;
+}

@@ -1,0 +1,46 @@
+.btn {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: +2%;
+    text-decoration: none;
+    color: black;
+    margin: 1.5%;
+}
+
+nav .btn {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: +1%;
+    text-decoration: none;
+    color: black;
+    margin: 0.5%;
+}
+
+.btn_menu {
+    color: black;
+    background-color: white;
+}
+
+.btn_menu:hover{
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+
+
+nav .btn_menu {
+    color: white;
+    background-color: black;
+    border-color: white;
+}
+
+nav .btn_menu:hover{
+    background-color: white;
+    color: black;
+    border-color: black;
+}
+
+.selected{
+    border: 2px solid red;
+    border-radius: 10px;
+}
